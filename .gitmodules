@@ -1,0 +1,6 @@
+[submodule "remind-goals-client"]
+	path = remind-goals-client
+	url = https://github.com/zhyrzh/remind-goals-client
+[submodule "remind-goals-api"]
+	path = remind-goals-api
+	url = https://github.com/zhyrzh/remind-goals-api
